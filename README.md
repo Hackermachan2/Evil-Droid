@@ -1,5 +1,5 @@
 ## Evil-Droid Framework . version 0.3 
-    Author: Mascerano Bachir [ dev-labs ]
+    Author: hackermachan 
 
 ## Legal Disclamer:
     The author does not hold any responsibility for the bad use of this tool,
@@ -25,7 +25,7 @@
 
 ## Download/Config/Usage:
     1? - Download the tool from github
-         git clone https://github.com/M4sc3r4n0/Evil-Droid.git
+         git clone https://github.com/hackermachan/Evil-Droid.git
 
     2? - Set script execution permission
          cd Evil-Droid
@@ -34,8 +34,5 @@
 
     4?- Run Evil-Droid Framework :
        ./evil-droid
-         see options bellow	   
-      
-
-## video tutorial: 
-https://www.youtube.com/watch?v=8u-NHeTdPRE&feature=share old version
+         see options bellow
+	 
