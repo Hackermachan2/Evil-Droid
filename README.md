@@ -25,7 +25,7 @@
 
 ## Download/Config/Usage:
     1? - Download the tool from github
-         git clone https://github.com/hackermachan/Evil-Droid.git
+         git clone https://github.com/hackermachan2/Evil-Droid.git
 
     2? - Set script execution permission
          cd Evil-Droid
